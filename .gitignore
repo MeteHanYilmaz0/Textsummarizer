@@ -1,0 +1,11 @@
+# Sanal ortam klasörü
+.venv/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+
+# IDE ayarları (PyCharm vs.)
+.idea/
+
+# Model klasörü (LFS ile yöneteceğiz)
+saved_summary_model/
