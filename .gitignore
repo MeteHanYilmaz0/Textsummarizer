@@ -8,4 +8,4 @@ __pycache__/
 .idea/
 
 # Model klasörü (LFS ile yöneteceğiz)
-saved_summary_model/
+#saved_summary_model/
