@@ -9,3 +9,73 @@ __pycache__/
 
 # Model klasörü (LFS ile yöneteceğiz)
 #saved_summary_model/
+
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+
+# Android
+android/.gradle/
+android/captures/
+android/gradle-wrapper.properties
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/.idea/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/.generated/
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Flutter/App.framework
+
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xcuserstate
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+macos/Flutter/App.framework
+macos/Flutter/Flutter.framework
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# Others
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Packages
+pubspec.lock
+
